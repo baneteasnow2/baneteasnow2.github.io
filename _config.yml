@@ -1,22 +1,22 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
-twitter:
-  username: #yourusername
-  card: summary
-  creator: #yourusername
-author:
-  twitter: #yourusername
-  name: #yourusername
-  avatar:
-  email: #youremail
-  url: #yoururl
-permalink: pretty
+site: Books
+url: https://baneteasnow2.github.io/books/ #yoururl
+title: Books
+description: minimalism
+# twitter:
+  # username: #yourusername
+  # card: summary
+  # creator: #yourusername
+# author:
+  # twitter: #yourusername
+  # name: #yourusername
+  # avatar:
+  # email: #youremail
+  # url: #yoururl
+# permalink: pretty
 
 baseurl: ""
 
-highlighter: none
+# highlighter: none
 
 exclude:
   - .jekyll-cache
