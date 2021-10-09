@@ -73,6 +73,17 @@ hr {
     border: 0;
 }
 
+table { width: 100%; }
+
+table, th, td {
+  border: thin solid;
+  border-color: #d6d6d6;
+  border-collapse: collapse;
+  padding: 0.4rem;
+  word-wrap: break-word;
+  font-size: 85%;
+}
+
 header {
 	flex-basis:10rem;
 	flex-grow:1;
