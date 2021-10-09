@@ -7,19 +7,6 @@ links:
   url: /now
 - title: Kitaplık
   url: /about
-- title: 2021
-  url: /2021
-- title: Bookmarks
-  url: /about
-- title: TL;DR
-  url: /about
-- title: English
-  url: /about
 - title: Ara
   url: /search
-- title: Rss
-  url: /atom.xml
-- title: Instagram
-  url: /atom.xml
-- title: Goodreads
-  url: /atom.xml
+
