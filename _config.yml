@@ -2,16 +2,16 @@ site: Books
 url: #yoururl
 title: Books
 description: minimalism
-# twitter:
-  # username: #yourusername
-  # card: summary
-  # creator: #yourusername
-# author:
-  # twitter: #yourusername
-  # name: #yourusername
-  # avatar:
-  # email: #youremail
-  # url: #yoururl
+twitter:
+  username: #yourusername
+  card: summary
+  creator: #yourusername
+author:
+  twitter: #yourusername
+  name: #yourusername
+  avatar:
+  email: #youremail
+  url: #yoururl
 permalink: pretty
 
 baseurl: ""
