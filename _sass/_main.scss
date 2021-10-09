@@ -168,6 +168,28 @@ strong, b {
 	//list-style-position: inside;
 }
 
+.decorated {
+     overflow: hidden;
+ }
+.decorated > span {
+    position: relative;
+    display: inline-block;
+}
+.decorated > span:before, .decorated > span:after {
+    content: '';
+    position: absolute;
+    top: 90%;
+    border-bottom: 1px dotted #808080;
+    width: 100vw;
+    margin: 0 20px;
+}
+.decorated > span:before {
+    right: 0%;
+}
+.decorated > span:after { 
+    left: 0%;
+}
+
 main {
 	display:flex;
 	flex-wrap:wrap;
